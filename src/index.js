@@ -11,3 +11,9 @@ ReactDOM.render(
   </BrowserRouter>,
   document.getElementById('root')
 );
+
+// LINK TO TUTORIAL CODE
+// https://github.com/academind/react-complete-guide-code/tree/zz-reactjs-summary/code
+
+// LINK TO YOUTUBE TUTORIAL
+// https://www.youtube.com/watch?v=Dorf8i6lCuk&t=2690s
